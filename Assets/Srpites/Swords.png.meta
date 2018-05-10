@@ -1,0 +1,855 @@
+fileFormatVersion: 2
+guid: 96cafc09891079245a8d26e6ad946928
+timeCreated: 1525586505
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Swords_0
+    21300002: Swords_1
+    21300004: Swords_2
+    21300006: Swords_3
+    21300008: Swords_4
+    21300010: Swords_5
+    21300012: Swords_6
+    21300014: Swords_7
+    21300016: Swords_8
+    21300018: Swords_9
+    21300020: Swords_10
+    21300022: Swords_11
+    21300024: Swords_12
+    21300026: Swords_13
+    21300028: Swords_14
+    21300030: Swords_15
+    21300032: Swords_16
+    21300034: Swords_17
+    21300036: Swords_18
+    21300038: Swords_19
+    21300040: Swords_20
+    21300042: Swords_21
+    21300044: Swords_22
+    21300046: Swords_23
+    21300048: Swords_24
+    21300050: Swords_25
+    21300052: Swords_26
+    21300054: Swords_27
+    21300056: Swords_28
+    21300058: Swords_29
+    21300060: Swords_30
+    21300062: Swords_31
+    21300064: Swords_32
+    21300066: Swords_33
+    21300068: Swords_34
+    21300070: Swords_35
+    21300072: Swords_36
+    21300074: Swords_37
+    21300076: Swords_38
+    21300078: Swords_39
+    21300080: Swords_40
+    21300082: Swords_41
+    21300084: Swords_42
+    21300086: Swords_43
+    21300088: Swords_44
+    21300090: Swords_45
+    21300092: Swords_46
+    21300094: Swords_47
+    21300096: Swords_48
+    21300098: Swords_49
+    21300100: Swords_50
+    21300102: Swords_51
+    21300104: Swords_52
+    21300106: Swords_53
+    21300108: Swords_54
+    21300110: Swords_55
+    21300112: Swords_56
+    21300114: Swords_57
+    21300116: Swords_58
+    21300118: Swords_59
+    21300120: Swords_60
+    21300122: Swords_61
+    21300124: Swords_62
+    21300126: Swords_63
+    21300128: Swords_64
+    21300130: Swords_65
+    21300132: Swords_66
+    21300134: Swords_67
+    21300136: Swords_68
+    21300138: Swords_69
+    21300140: Swords_70
+    21300142: Swords_71
+    21300144: Swords_72
+    21300146: Swords_73
+    21300148: Swords_74
+    21300150: Swords_75
+    21300152: Swords_76
+    21300154: Swords_77
+    21300156: Swords_78
+    21300158: Swords_79
+    21300160: Swords_80
+    21300162: Swords_81
+    21300164: Swords_82
+    21300166: Swords_83
+    21300168: Swords_84
+    21300170: Swords_85
+    21300172: Swords_86
+    21300174: Swords_87
+    21300176: Swords_88
+    21300178: Swords_89
+    21300180: Swords_90
+    21300182: Swords_91
+    21300184: Swords_92
+    21300186: Swords_93
+    21300188: Swords_94
+    21300190: Swords_95
+    21300192: Swords_96
+    21300194: Swords_97
+    21300196: Swords_98
+    21300198: Swords_99
+    21300200: Swords_100
+    21300202: Swords_101
+    21300204: Swords_102
+    21300206: Swords_103
+    21300208: Swords_104
+    21300210: Swords_105
+    21300212: Swords_106
+    21300214: Swords_107
+    21300216: Swords_108
+    21300218: Swords_109
+    21300220: Swords_110
+    21300222: Swords_111
+    21300224: Swords_112
+    21300226: Swords_113
+    21300228: Swords_114
+    21300230: Swords_115
+    21300232: Swords_116
+    21300234: Swords_117
+    21300236: Swords_118
+    21300238: Swords_119
+    21300240: Swords_120
+    21300242: Swords_121
+    21300244: Swords_122
+    21300246: Swords_123
+    21300248: Swords_124
+    21300250: Swords_125
+    21300252: Swords_126
+    21300254: Swords_127
+    21300256: Swords_128
+    21300258: Swords_129
+    21300260: Swords_130
+    21300262: Swords_131
+    21300264: Swords_132
+    21300266: Swords_133
+    21300268: Swords_134
+    21300270: Swords_135
+    21300272: Swords_136
+    21300274: Swords_137
+    21300276: Swords_138
+    21300278: Swords_139
+    21300280: Swords_140
+    21300282: Swords_141
+    21300284: Swords_142
+    21300286: Swords_143
+    21300288: Swords_144
+    21300290: Swords_145
+    21300292: Swords_146
+    21300294: Swords_147
+    21300296: Swords_148
+    21300298: Swords_149
+    21300300: Swords_150
+    21300302: Swords_151
+    21300304: Swords_152
+    21300306: Swords_153
+    21300308: Swords_154
+    21300310: Swords_155
+    21300312: Swords_156
+    21300314: Swords_157
+    21300316: Swords_158
+    21300318: Swords_159
+    21300320: Swords_160
+    21300322: Swords_161
+    21300324: Swords_162
+    21300326: Swords_163
+    21300328: Swords_164
+    21300330: Swords_165
+    21300332: Swords_166
+    21300334: Swords_167
+    21300336: Swords_168
+    21300338: Swords_169
+    21300340: Swords_170
+    21300342: Swords_171
+    21300344: Swords_172
+    21300346: Swords_173
+    21300348: Swords_174
+    21300350: Swords_175
+    21300352: Swords_176
+    21300354: Swords_177
+    21300356: Swords_178
+    21300358: Swords_179
+    21300360: Swords_180
+    21300362: Swords_181
+    21300364: Swords_182
+    21300366: Swords_183
+    21300368: Swords_184
+    21300370: Swords_185
+    21300372: Swords_186
+    21300374: Swords_187
+    21300376: Swords_188
+    21300378: Swords_189
+    21300380: Swords_190
+    21300382: Swords_191
+    21300384: Swords_192
+    21300386: Swords_193
+    21300388: Swords_194
+    21300390: Swords_195
+    21300392: Swords_196
+    21300394: Swords_197
+    21300396: Swords_198
+    21300398: Swords_199
+    21300400: Swords_200
+    21300402: Swords_201
+    21300404: Swords_202
+    21300406: Swords_203
+    21300408: Swords_204
+    21300410: Swords_205
+    21300412: Swords_206
+    21300414: Swords_207
+    21300416: Swords_208
+    21300418: Swords_209
+    21300420: Swords_210
+    21300422: Swords_211
+    21300424: Swords_212
+    21300426: Swords_213
+    21300428: Swords_214
+    21300430: Swords_215
+    21300432: Swords_216
+    21300434: Swords_217
+    21300436: Swords_218
+    21300438: Swords_219
+    21300440: Swords_220
+    21300442: Swords_221
+    21300444: Swords_222
+    21300446: Swords_223
+    21300448: Swords_224
+    21300450: Swords_225
+    21300452: Swords_226
+    21300454: Swords_227
+    21300456: Swords_228
+    21300458: Swords_229
+    21300460: Swords_230
+    21300462: Swords_231
+    21300464: Swords_232
+    21300466: Swords_233
+    21300468: Swords_234
+    21300470: Swords_235
+    21300472: Swords_236
+    21300474: Swords_237
+    21300476: Swords_238
+    21300478: Swords_239
+    21300480: Swords_240
+    21300482: Swords_241
+    21300484: Swords_242
+    21300486: Swords_243
+    21300488: Swords_244
+    21300490: Swords_245
+    21300492: Swords_246
+    21300494: Swords_247
+    21300496: Swords_248
+    21300498: Swords_249
+    21300500: Swords_250
+    21300502: Swords_251
+    21300504: Swords_252
+    21300506: Swords_253
+    21300508: Swords_254
+    21300510: Swords_255
+    21300512: Swords_256
+    21300514: Swords_257
+    21300516: Swords_258
+    21300518: Swords_259
+    21300520: Swords_260
+    21300522: Swords_261
+    21300524: Swords_262
+    21300526: Swords_263
+    21300528: Swords_264
+    21300530: Swords_265
+    21300532: Swords_266
+    21300534: Swords_267
+    21300536: Swords_268
+    21300538: Swords_269
+    21300540: Swords_270
+    21300542: Swords_271
+    21300544: Swords_272
+    21300546: Swords_273
+    21300548: Swords_274
+    21300550: Swords_275
+    21300552: Swords_276
+    21300554: Swords_277
+    21300556: Swords_278
+    21300558: Swords_279
+    21300560: Swords_280
+    21300562: Swords_281
+    21300564: Swords_282
+    21300566: Swords_283
+    21300568: Swords_284
+    21300570: Swords_285
+    21300572: Swords_286
+    21300574: Swords_287
+    21300576: Swords_288
+    21300578: Swords_289
+    21300580: Swords_290
+    21300582: Swords_291
+    21300584: Swords_292
+    21300586: Swords_293
+    21300588: Swords_294
+    21300590: Swords_295
+    21300592: Swords_296
+    21300594: Swords_297
+    21300596: Swords_298
+    21300598: Swords_299
+    21300600: Swords_300
+    21300602: Swords_301
+    21300604: Swords_302
+    21300606: Swords_303
+    21300608: Swords_304
+    21300610: Swords_305
+    21300612: Swords_306
+    21300614: Swords_307
+    21300616: Swords_308
+    21300618: Swords_309
+    21300620: Swords_310
+    21300622: Swords_311
+    21300624: Swords_312
+    21300626: Swords_313
+    21300628: Swords_314
+    21300630: Swords_315
+    21300632: Swords_316
+    21300634: Swords_317
+    21300636: Swords_318
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Swords_14
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2271
+        width: 40
+        height: 40
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.506194, y: 20}
+        - {x: -19.968142, y: 20}
+        - {x: -19.968142, y: 10.199329}
+        - {x: -1.8353976, y: -18.816296}
+        - {x: 1.7911512, y: -20}
+        - {x: 11.461947, y: -20}
+        - {x: 20, y: -11.562388}
+        - {x: 20, y: -0.6815295}
+        - {x: 19.923895, y: 0.52745485}
+      physicsShape:
+      - - {x: 17.506195, y: -0.6815295}
+        - {x: -10.297344, y: 19.871204}
+        - {x: -18.759293, y: 19.871204}
+        - {x: -18.759293, y: 12.617298}
+        - {x: -0.62654793, y: -18.816296}
+        - {x: 5.4177, y: -20}
+        - {x: 13.879647, y: -17.607311}
+        - {x: 20, y: -9.14442}
+        - {x: 20, y: -3.0994983}
+        - {x: 18.715046, y: -0.6815295}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Swords_15
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 2270
+        width: 24
+        height: 42
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.673451, y: -4.099508}
+        - {x: -11.673451, y: -19.816303}
+        - {x: -9.255753, y: -21}
+        - {x: 12, y: -21}
+        - {x: 12, y: -19.816303}
+        - {x: 12, y: 21}
+        - {x: 4.0415926, y: 21}
+        - {x: -0.7938056, y: 18.871195}
+      physicsShape:
+      - - {x: 10.08584, y: 21}
+        - {x: 2.8327432, y: 15.244242}
+        - {x: -3.2115047, y: -0.47255468}
+        - {x: -10.464602, y: -4.099508}
+        - {x: -11.673451, y: -5.308492}
+        - {x: -11.673451, y: -19.816303}
+        - {x: -8.046903, y: -21}
+        - {x: 10.08584, y: -21}
+        - {x: 12, y: -2.8905234}
+        - {x: 12, y: 21}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Swords_16
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 2277
+        width: 21
+        height: 28
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: -12.816385}
+        - {x: -9.499114, y: -14}
+        - {x: 5.0070806, y: -14}
+        - {x: 10.5, y: 0.48244262}
+        - {x: 10.5, y: 14}
+        - {x: -1.0371673, y: 14}
+        - {x: -10.5, y: 11.363301}
+      physicsShape:
+      - - {x: 10.5, y: 14}
+        - {x: 0.17168224, y: 14}
+        - {x: -3.4548664, y: 13.78127}
+        - {x: -10.5, y: 10.154317}
+        - {x: -10.5, y: -3.1445105}
+        - {x: -9.499114, y: -9.189432}
+        - {x: -4.6637163, y: -14}
+        - {x: -1.0371673, y: -14}
+        - {x: 1.3805318, y: -11.607401}
+        - {x: 10.5, y: 6.5273643}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Swords_17
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 2274
+        width: 38
+        height: 35
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.973457, y: 17.5}
+        - {x: -19, y: 16.826164}
+        - {x: -19, y: 2.3183515}
+        - {x: 11.038933, y: -17.025398}
+        - {x: 19, y: -17.025398}
+        - {x: 19, y: -8.562508}
+        - {x: -4.6761117, y: 17.5}
+      physicsShape:
+      - - {x: -19, y: 3.527336}
+        - {x: 14.665482, y: -17.025398}
+        - {x: 19, y: -17.025398}
+        - {x: 19, y: -9.771492}
+        - {x: 0.15928681, y: 17.5}
+        - {x: -15.5557575, y: 17.5}
+        - {x: -19, y: 15.617179}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Swords_18
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 2271
+        width: 41
+        height: 40
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.374344, y: 20}
+        - {x: -20.374344, y: -12.771373}
+        - {x: 3.8026488, y: -20}
+        - {x: 20.5, y: -20}
+        - {x: 20.5, y: 1.7364392}
+        - {x: -4.6592984, y: 20}
+      physicsShape:
+      - - {x: -7.0769978, y: 20}
+        - {x: -13.121245, y: 20}
+        - {x: -20.374344, y: 15.035267}
+        - {x: -20.374344, y: 8.990345}
+        - {x: -19.165493, y: 5.3633924}
+        - {x: 14.682295, y: -20}
+        - {x: 20.5, y: -20}
+        - {x: 20.5, y: -17.607311}
+        - {x: 20.5, y: -10.353404}
+        - {x: -4.6592984, y: 18.66222}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Swords_19
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 2274
+        width: 39
+        height: 35
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.8663588, y: 17.5}
+        - {x: -19.5, y: -8.562508}
+        - {x: -19.5, y: -17.025398}
+        - {x: 3.4486597, y: -17.025398}
+        - {x: 19.5, y: 2.3183515}
+        - {x: 19.5, y: 17.5}
+      physicsShape:
+      - - {x: 19.5, y: 15.617179}
+        - {x: 14.328306, y: 17.5}
+        - {x: 10.701757, y: 17.5}
+        - {x: 8.284058, y: 16.826164}
+        - {x: -19.5, y: -13.398445}
+        - {x: -18.310633, y: -17.025398}
+        - {x: -13.475235, y: -17.025398}
+        - {x: 3.4486597, y: -2.517586}
+        - {x: 19.163704, y: 4.73632}
+        - {x: 19.5, y: 8.363274}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Swords_21
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 2284
+        width: 48
+        height: 14
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.76727, y: 7}
+        - {x: -23.97612, y: 6.2735248}
+        - {x: -23.97612, y: -7}
+        - {x: -1.0079772, y: -7}
+        - {x: 20.751316, y: -2.1893656}
+        - {x: 24, y: 1.4375875}
+        - {x: 24, y: 7}
+      physicsShape:
+      - - {x: -22.76727, y: 7}
+        - {x: -23.97612, y: 5.0645404}
+        - {x: -23.97612, y: -7}
+        - {x: -4.634526, y: -7}
+        - {x: 24, y: 0.22860312}
+        - {x: 24, y: 3.8555562}
+        - {x: 23.169014, y: 7}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Swords_22
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 2283
+        width: 14
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.784949, y: 8}
+        - {x: -6.784949, y: -0.7714064}
+        - {x: -3.1583998, y: -6.816328}
+        - {x: -0.7407007, y: -8}
+        - {x: 7, y: -8}
+        - {x: 7, y: 2.8555467}
+        - {x: 0.46814883, y: 8}
+      physicsShape:
+      - - {x: -1.9495503, y: 7.691484}
+        - {x: -4.3672495, y: 6.4824996}
+        - {x: -4.3672495, y: -1.9803908}
+        - {x: 5.3035474, y: -8}
+        - {x: 7, y: -6.816328}
+        - {x: 7, y: -0.7714064}
+        - {x: 0.46814883, y: 7.691484}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Swords_312
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 8
+        width: 121
+        height: 163
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.572569, y: 81.5}
+        - {x: -60.464603, y: 46.6875}
+        - {x: -60.464603, y: -77.83788}
+        - {x: -54.420357, y: -81.464836}
+        - {x: 60.5, y: -81.464836}
+        - {x: 60.5, y: 81.5}
+      physicsShape:
+      - - {x: 51.95841, y: 81.5}
+        - {x: -12.110621, y: 81.5}
+        - {x: -53.211506, y: 63.61328}
+        - {x: -60.464603, y: 30.970705}
+        - {x: -60.464603, y: -51.24023}
+        - {x: -22.990267, y: -81.464836}
+        - {x: 48.33186, y: -81.464836}
+        - {x: 60.5, y: -70.58398}
+        - {x: 60.5, y: -60.912106}
+        - {x: 54.376106, y: -48.82226}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Swords_313
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 42
+        width: 117
+        height: 95
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58.20709, y: 47.5}
+        - {x: -58.20709, y: -18.449219}
+        - {x: -21.941599, y: -47.464844}
+        - {x: 49.380527, y: -47.464844}
+        - {x: 56.633625, y: -45.046875}
+        - {x: 58.5, y: -41.41992}
+        - {x: 58.5, y: -9.986328}
+        - {x: -18.31505, y: 47.5}
+      physicsShape:
+      - - {x: -58.20709, y: 47.5}
+        - {x: -58.20709, y: -11.1953125}
+        - {x: -42.492043, y: -47.464844}
+        - {x: 56.633625, y: -47.464844}
+        - {x: 58.5, y: -46.25586}
+        - {x: 58.5, y: -22.076172}
+        - {x: 1.0265427, y: 29.910154}
+        - {x: -46.11859, y: 47.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Swords_314
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 67
+        width: 78
+        height: 45
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.9548693, y: 22.26758}
+        - {x: 2.119471, y: 22.5}
+        - {x: -14.804423, y: 22.5}
+        - {x: -38.981415, y: -10.374997}
+        - {x: -38.981415, y: -18.837887}
+        - {x: -34.146015, y: -22.46484}
+        - {x: 23.878763, y: -22.46484}
+        - {x: 39, y: -12.792966}
+        - {x: 39, y: -0.70312244}
+        - {x: 15.416817, y: 18.640627}
+      physicsShape:
+      - - {x: 26.296463, y: 7.759768}
+        - {x: 5.74602, y: 21.058596}
+        - {x: -11.177875, y: 22.5}
+        - {x: -34.146015, y: -5.5390596}
+        - {x: -37.772564, y: -11.5839815}
+        - {x: -37.772564, y: -22.46484}
+        - {x: 25.087614, y: -22.46484}
+        - {x: 28.714163, y: -20.046871}
+        - {x: 39, y: -9.166013}
+        - {x: 39, y: -0.70312244}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Swords_315
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 13
+        width: 144
+        height: 153
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 72, y: 12.999999}
+        - {x: 72, y: 62.568356}
+        - {x: 51.249535, y: 76.5}
+        - {x: -40.623035, y: 76.5}
+        - {x: -72, y: 48.060547}
+        - {x: -72, y: -43.822266}
+        - {x: -50.29383, y: -76.46484}
+        - {x: -16.446043, y: -76.46484}
+        - {x: -12.819494, y: -71.62891}
+        - {x: 6.522099, y: -48.658203}
+        - {x: 2.8955505, y: -38.98633}
+      physicsShape:
+      - - {x: 72, y: 46.851562}
+        - {x: 43.996437, y: 76.5}
+        - {x: -38.205334, y: 76.5}
+        - {x: -72, y: 57.732418}
+        - {x: -72, y: -60.748047}
+        - {x: -69.63542, y: -68.00195}
+        - {x: -41.831882, y: -76.46484}
+        - {x: -11.610644, y: -76.46484}
+        - {x: 5.3132496, y: -47.44922}
+        - {x: 1.6867008, y: -40.195312}
+        - {x: 72, y: 19.04492}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Swords_316
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 56
+        width: 73
+        height: 65
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.5, y: 32.5}
+        - {x: -36.5, y: 3.4091787}
+        - {x: -0.4415872, y: -32.5}
+        - {x: 22.526554, y: -32.5}
+        - {x: 36.5, y: -18.35254}
+        - {x: 36.5, y: 8.245116}
+        - {x: 12.855759, y: 32.5}
+      physicsShape:
+      - - {x: -36.5, y: 32.5}
+        - {x: -36.5, y: 8.245116}
+        - {x: -30.662827, y: -17.143555}
+        - {x: 5.6026607, y: -32.5}
+        - {x: 36.5, y: -32.5}
+        - {x: 36.5, y: 16.708006}
+        - {x: -10.112384, y: 32.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Swords_317
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 67
+        width: 54
+        height: 45
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.840698, y: 22.5}
+        - {x: -0.24779794, y: 22.5}
+        - {x: -26.84249, y: 8.968752}
+        - {x: -26.84249, y: -3.1210911}
+        - {x: -1.4566475, y: -22.46484}
+        - {x: 13.049547, y: -22.46484}
+        - {x: 27, y: -1.9121068}
+        - {x: 27, y: 17.431643}
+      physicsShape:
+      - - {x: 9.422998, y: 22.26758}
+        - {x: 5.79645, y: 22.26758}
+        - {x: -25.633638, y: 6.5507836}
+        - {x: -25.633638, y: -5.5390596}
+        - {x: -1.4566475, y: -22.46484}
+        - {x: 15.467247, y: -22.46484}
+        - {x: 20.302645, y: -14.00195}
+        - {x: 27, y: 7.759768}
+        - {x: 27, y: 16.222658}
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
